@@ -1,0 +1,12 @@
+create i1 queue
+pop i1
+push i1 4
+push i1 2
+push i1 3
+pop i1
+pop i1
+pop i1
+pop i1
+
+
+

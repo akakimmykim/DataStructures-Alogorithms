@@ -1,0 +1,8 @@
+create i1 stack
+push i1 200
+pop i1
+create i1 queue
+pop i1 
+push i1 300
+push i2 239
+

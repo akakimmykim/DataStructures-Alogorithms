@@ -1,0 +1,14 @@
+PROCESSING COMMAND: create i1 queue
+PROCESSING COMMAND: pop i1
+ERROR: This list is empty!
+PROCESSING COMMAND: push i1 4
+PROCESSING COMMAND: push i1 2
+PROCESSING COMMAND: push i1 3
+PROCESSING COMMAND: pop i1
+Value popped: 4
+PROCESSING COMMAND: pop i1
+Value popped: 2
+PROCESSING COMMAND: pop i1
+Value popped: 3
+PROCESSING COMMAND: pop i1
+ERROR: This list is empty!
